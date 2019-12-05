@@ -9,7 +9,7 @@ It will then print the following dialog:
 What is the value of the principal:
 >>  100000
 
-What is the value of the monthly interest rate::
+What is the value of the monthly interest rate:
 >>  0.5
 
 What is the number of months:
