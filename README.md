@@ -1,3 +1,9 @@
+# INSTALLATION
+
+First install the `amortization` package by typing the following command
+
+```pip install amortization```
+
 # USAGE
 
 Launch the program with the following command line:
